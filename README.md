@@ -5,3 +5,9 @@ This repository contains Bash scripts and utilities for Linux administration and
 - lib/: Reusable libraries
 - tests/: Test scripts
 - docs/: Documentation
+
+## scripts/hello_system.sh
+A friendly system greeting:
+```bash
+./scripts/hello_system.sh
+
